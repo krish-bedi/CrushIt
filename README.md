@@ -20,10 +20,10 @@ Backend Language
 •Node.js (with Express.js)
 
 Database
-•Firebase
+•MongoDB
 
 Authentication Model
-•Firebase Authentication
+•JWT
 
 Unit Test Frameworks
 •Frontend: Jasmine / Karma
