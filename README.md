@@ -29,3 +29,5 @@ Unit Test Frameworks
 •Frontend: Jasmine / Karma
 •Backend: Jasmine
 
+AGILE Methodology
+
